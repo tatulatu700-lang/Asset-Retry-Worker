@@ -1,0 +1,6 @@
+{
+  "name": "Kafka Retry Worker Simulator",
+  "description": "An interactive Kafka Retry Worker & Chaos Testing Simulator and Metrics Dashboard based on the Rust asset retry engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
